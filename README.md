@@ -99,6 +99,7 @@ La contramedida principal es configurar correctamente la validación del certifi
 ## Documentación
 
 El informe completo está disponible en Auditorias_redes_twin.pdf
+
 El video se puede ver desde el siguiente enlace: https://gvaedu-my.sharepoint.com/:v:/g/personal/leopaegut_alu_edu_gva_es/IQB_qOmw4OW_TZbvD3-h1FA7AUhVHw-HXDCzSGIeu8R23PU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&email=g.velagarcia%40edu.gva.es&e=Cfy8qE
 
 ## Aviso legal
