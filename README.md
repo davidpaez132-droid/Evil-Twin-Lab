@@ -33,7 +33,7 @@ el protocolo MSCHAP (hash NetNTLM).
 
 ## Documentación
 
-El informe completo está disponible en /docs/Auditorias_redes_twin.pdf
+El informe completo está disponible en Auditorias_redes_twin.pdf
 
 ## Aviso legal
 
